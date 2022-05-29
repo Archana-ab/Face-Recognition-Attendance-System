@@ -101,4 +101,4 @@ If you want to use it just follow the steps below.
 2. Import the project to your favourit IDE
 3. Create an python enviroment
 4. Install all the packages 
-5. Run the project using the command line or your IDE Run Button
+5. Run the project using your IDE Run Button of main.py file.
